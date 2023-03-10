@@ -1,9 +1,9 @@
 server: # REST and WS server
-  port: 8080
+  port: 80
   address: 0.0.0.0
 lavalink:
   server:
-    password: "yourpassword"
+    password: "desko.stream"
     sources:
       youtube: true
       bandcamp: true
